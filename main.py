@@ -49,7 +49,7 @@ async def start(client, message):
         
     else:
         buttons = [[
-            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/TheKittyXD_Bot?startgroup=true")
+            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/Ur_Lover_Bot?startgroup=true")
         ]
         ]
         video = "https://te.legra.ph/file/d2f2e7a5b90ce15221f91.mp4"
@@ -58,7 +58,7 @@ async def start(client, message):
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ᴏᴡɴᴇʀ   [ᴄʜᴀᴍᴘᴜ](https://t.me/ChampuXD)
 ┣★ ᴜᴘᴅᴀᴛᴇs [ᴄʜᴀɴɴᴇʟ](https://t.me/theshivanshu)
-┣★ sᴜᴘᴘᴏʀᴛ [ɢʀᴏᴜᴘ ](https://t.me/Champu_Links)
+┣★ sᴜᴘᴘᴏʀᴛ [ɢʀᴏᴜᴘ ](https://t.me/Freaky_Support)
 ┣★ sᴏᴜʀᴄᴇ  [ʀᴇᴘᴏ ](https://github.com/TheChampu/TheChampu)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
